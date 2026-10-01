@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #0099ff;
+    height: 36px;
+}
+
+.navbar-container {
+    margin: 0 auto;
+    padding: 8px 2px;
+    width: 1000px;
+}
+
+.navbar-container a {
+    text-decoration: none;
+    color: black;
+    margin-right: 16px;
+}
